@@ -11,11 +11,5 @@ export const MicroCounter = () => {
   return <button onClick={handleClick}>{count}</button>;
 };
 
-interface hui {
-  name: string
-}
 
-type hui2 = {
-
-}
 
